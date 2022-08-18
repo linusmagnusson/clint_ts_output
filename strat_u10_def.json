@@ -1,0 +1,1 @@
+{"func": "fcn_area_mean", "parameter": [["u", 10, "full"]], "area": {"eq": [5, 0, -5, 360], "60N": [65, 0, 55, 360], "60S": [-55, 0, -65, 360]}, "description": "10hPa u-windarea index (see areas)"}
