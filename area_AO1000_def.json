@@ -1,1 +1,1 @@
-{"func": "fcn_area_mean", "parameter": [["z", 1000, "ano_ea"]], "area": {"Arctic": [90, -180, 65, 180]}}
+{"func": "fcn_area_mean", "parameter": [["z", 1000, "ano_ea"]], "area": {"Arctic": [90, -180, 65, 180]}, "description": "1000hPa geopotential height area index (see areas)"}

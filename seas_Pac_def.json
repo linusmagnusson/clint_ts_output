@@ -1,1 +1,1 @@
-{"func": "fcn_seasPac", "parameter": [["z", 500, "ano_ea"]], "area": {"NPac": [85, -160, 25, -80]}}
+{"func": "fcn_seasPac", "parameter": [["z", 500, "ano_ea"]], "area": {"NPac": [85, -160, 25, -80]}, "description": "Pacific North American pattern (PNA) and North PAcific dipole (NPD)  pattern based on Seasonal forecast patterns"}

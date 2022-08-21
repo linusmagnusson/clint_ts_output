@@ -1,1 +1,1 @@
-{"func": "fcn_seasAtl", "parameter": [["z", 500, "ano_ea"]], "area": {"NAtl": [85, -80, 25, 40]}}
+{"func": "fcn_seasAtl", "parameter": [["z", 500, "ano_ea"]], "area": {"NAtl": [85, -80, 25, 40]}, "description": "North Atlantic Oscillation (NAO), East Atlantic pattern (EAT) and Atlantic Blocking (ABLOCK)  pattern based on Seasonal forecast patterns"}
