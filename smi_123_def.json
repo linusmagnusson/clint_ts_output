@@ -1,0 +1,1 @@
+{"func": "fcn_smi", "parameter": [["swvl1", 0, "full"], ["swvl2", 0, "full"], ["swvl3", 0, "full"]], "area": {"weu": [55, -10, 40, 15]}, "description": "Soil moisture index to top 1 metre over land-points)"}
