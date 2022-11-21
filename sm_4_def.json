@@ -1,1 +1,1 @@
-{"func": "fcn_area_mean", "parameter": [["swvl4", 0, "full"]], "area": {"weu": [55, -10, 40, 15]}, "description": "Soil moisture index level 4)"}
+{"func": "fcn_area_mean", "parameter": [["swvl4", 0, "full"]], "area": {"weu": [55, -10, 40, 15]}, "land": "yes", "description": "Soil moisture index level 4)"}
