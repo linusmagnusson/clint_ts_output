@@ -1,1 +1,1 @@
-{"func": "fcn_nao_classic", "parameter": [["msl", 0, "full"]], "area": {"global": [90, -180, -90, -180]}, "description": "NAO based on MSLP difference beween Lissabon and Reykavik, WeMO between Padua and San Fernando"}
+{"func": "fcn_nao_classic", "parameter": [["msl", 0, "full"]], "area": {"global": [90, -180, -90, -180]}, "land": "both", "description": "NAO based on MSLP difference beween Lissabon and Reykavik, WeMO between Padua and San Fernando"}

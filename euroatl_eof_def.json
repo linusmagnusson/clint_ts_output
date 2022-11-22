@@ -1,1 +1,1 @@
-{"func": "fcn_WReof", "parameter": [["z", 500, "ano_ea"]], "area": {"Euroatl": [88.5, -80, 30, 40]}, "description": "Patterns based on three two wind EOFs (EOF1, EOF2, EOF3) for Euro-Atlantic region"}
+{"func": "fcn_WReof", "parameter": [["z", 500, "ano_ea"]], "area": {"Euroatl": [88.5, -80, 30, 40]}, "land": "both", "description": "Patterns based on three two wind EOFs (EOF1, EOF2, EOF3) for Euro-Atlantic region"}

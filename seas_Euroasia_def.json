@@ -1,1 +1,1 @@
-{"func": "fcn_seasEuroasia", "parameter": [["z", 500, "ano_ea"]], "area": {"Euroasia": [85, 40, 25, 160]}, "description": "Euroasian (EAS) pattern based on Seasonal forecast patterns"}
+{"func": "fcn_seasEuroasia", "parameter": [["z", 500, "ano_ea"]], "area": {"Euroasia": [85, 40, 25, 160]}, "land": "both", "description": "Euroasian (EAS) pattern based on Seasonal forecast patterns"}

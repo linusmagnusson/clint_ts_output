@@ -1,1 +1,1 @@
-{"func": "fcn_4WR_s", "parameter": [["z", 500, "ano_ea"]], "area": {"Euroatl": [88.5, -80, 30, 40]}, "description": "Summer (MJJAS) version of ECMWF 4 regimes (NAOP_S,BLOCK_S,NAOM_S,RIDGE_S)"}
+{"func": "fcn_4WR_s", "parameter": [["z", 500, "ano_ea"]], "area": {"Euroatl": [88.5, -80, 30, 40]}, "land": "both", "description": "Summer (MJJAS) version of ECMWF 4 regimes (NAOP_S,BLOCK_S,NAOM_S,RIDGE_S)"}
