@@ -1,0 +1,1 @@
+{"func": "fcn_area_mean", "parameter": [["2t", 0, "full"]], "area": {"glob": [90, -180, -90, 180], "30_40N": [40, -180, 30, 180]}, "land": "both", "description": "2-m temperature area index (see areas)"}
